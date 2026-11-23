@@ -2,7 +2,7 @@
 
 A short life as a flightless male fruit fly in a dart-frog vivarium. First person, at true scale. **The only way to win is to breed.**
 
-Play: **https://samuelling.github.io/Frog-food/** (static site on GitHub Pages: main branch, root folder, no build step).
+Play: **https://linglab.org/frog-food/** (static site on GitHub Pages: main branch, root folder, no build step).
 
 You are a male *Drosophila melanogaster*, 2.5 mm long, from a strain bred not to fly. The keeper tips you, dusted in calcium powder, into a 45 × 45 × 60 cm frog tank, which to you is a cathedral forest about 300 m wide under a 400 m sky. You need to drink, eat, stay damp, survive the frogs, and find a willing female. Your life is short. A vivarium day passes in 3 minutes, and after 5 days you die of old age.
 
